@@ -1,0 +1,7 @@
+Comandos básicos de Linux usados en prácticas de ASIR:
+
+ip a            -> ver direcciones IP
+ping google.com -> comprobar conexión
+ifconfig        -> información de red
+route -n        -> ver tabla de rutas
+hostname        -> ver nombre del equipo
